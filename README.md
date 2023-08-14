@@ -97,13 +97,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact Information
 
-For any inquiries or assistance, please contact our team at devops@example.com or join our community chat at [Chat Link](https://example.com/chat).
+<!-- For any inquiries or assistance, please contact our team at devops@example.com or join our community chat at [Chat Link](https://example.com/chat). -->
 
 ---
 
-Thank you for being part of our DevOps journey! Your contributions and collaboration are greatly appreciated.
+Thank you for being part of my DevOps journey! Your contributions and collaboration are greatly appreciated.
 
-[![Follow us on Twitter](/images/twitter.png)](https://twitter.com/devops_team)
-[![Join our Slack community](/images/slack.png)](https://slack.com/devops-community)
+<!-- [![Follow us on Twitter](/images/twitter.png)](https://twitter.com/devops_team)
+[![Join our Slack community](/images/slack.png)](https://slack.com/devops-community) -->
 
 *"Automate all the things!"*
